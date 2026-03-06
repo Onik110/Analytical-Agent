@@ -1,5 +1,3 @@
-# Governance: TerminalAnalytics
-
 ## Risk Register
 
 | Риск | Вероятность / Влияние | Детектирование | Защита | Остаточный риск |
