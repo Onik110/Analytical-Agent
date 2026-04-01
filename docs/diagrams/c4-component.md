@@ -1,8 +1,5 @@
 # C4 Component — внутреннее устройство ядра системы
 
-```markdown
-# C4 Component Diagram — Orchestrator Core
-
 ```mermaid
 flowchart LR
     SQ[SanitizeQueryNode]
