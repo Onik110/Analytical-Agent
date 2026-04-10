@@ -1,0 +1,13 @@
+pydantic==2.10.3
+mistralai==1.12.4
+langgraph==0.1.1
+langchain==0.2.0
+langchain-core==0.2.0
+fastapi==0.110.0
+uvicorn==0.29.0
+aiohttp>=3.9.0
+pywin32
+python-dotenv
+pandas
+openpyxl
+

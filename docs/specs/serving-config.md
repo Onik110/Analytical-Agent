@@ -105,4 +105,7 @@ fastapi==0.110.0
 uvicorn==0.29.0 0
 mistralai==1.12.4 
 pydantic==2.10.3
+pywin32==306 # COM-соединение с 1С:Предприятие (V83.COMConnector)    
 ```
+
+> **Примечание:** `pywin32` критичен для Windows — обеспечивает COM-соединение с 1С через `win32com.client`. Вызов 1С происходит не через HTTP/requests, а напрямую через COM API 1С:Предприятие.
